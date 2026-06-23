@@ -1,4 +1,3 @@
-cat > package.json << 'EOF'
 {
   "name": "bot",
   "version": "1.0.0",
@@ -11,4 +10,3 @@ cat > package.json << 'EOF'
     "pino": "^9.0.0"
   }
 }
-EOF
